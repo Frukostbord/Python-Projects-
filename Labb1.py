@@ -18,5 +18,4 @@ def main():
         print(temp, "degree(s) Celcius is", t_fahrenheit, "degree(s) Fahrenheit")
     else:                                                    #If no correct input is given.
         print("Wrong value put in by user.")
-
 main()
